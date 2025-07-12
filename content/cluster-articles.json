@@ -1,0 +1,447 @@
+{
+ 
+  
+  "cybersecurity-guide/what-is-phishing": {
+    "en": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "Cyber Threats",
+      "title": "What is Phishing? How to Recognize and Avoid Attacks",
+      "meta_description": "Learn to identify phishing scams. This guide explains different types of phishing attacks and provides actionable tips to protect your accounts.",
+      "breadcrumbs": [
+        { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+        { "name": "What is Phishing?", "href": "/learning/cybersecurity-guide/what-is-phishing" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-17T11:00:00+00:00",
+        "dateModified": "2025-07-17T11:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>The Art of Deception</h2><p>Phishing is a type of cyberattack where attackers impersonate a legitimate organization or person to trick victims into revealing sensitive information. This can include passwords, credit card numbers, social security numbers, or other personal data. The most common delivery method is a fraudulent email, but phishing can also occur via text messages (smishing) or phone calls (vishing).</p><h3>Key Signs of a Phishing Email</h3><p>While some phishing attempts are sophisticated, many contain red flags. Learning to spot them is your best defense:</p><ul><li><strong>Sense of Urgency:</strong> The email creates pressure with threats like 'Your account will be suspended' or 'Unusual login detected'. Attackers want you to act quickly without thinking.</li><li><strong>Generic Greetings:</strong> Instead of using your name, the email might start with 'Dear Customer' or 'Dear Valued Member'. Legitimate companies usually address you by name.</li><li><strong>Spelling and Grammar Mistakes:</strong> While not always present, poor grammar and spelling are common signs of a fraudulent email.</li><li><strong>Suspicious Links or Attachments:</strong> Never click on links or download attachments from an email you weren't expecting. Hover your mouse over a link to see the actual destination URL. If it looks strange or doesn't match the sender's domain, it's likely a phishing attempt.</li></ul><h3>What to Do if You Suspect Phishing</h3><p>If you receive a suspicious email, do not reply, click any links, or download attachments. The safest action is to delete it immediately. If the email claims to be from a company you do business with, go directly to their official website by typing the address into your browser and log in there to check for any alerts.</p>"
+    },
+    "ar": {
+      "parent_pillar": "التهديدات السيبرانية",
+      "category": "التهديدات السيبرانية",
+      "title": "ما هو التصيد الاحتيالي؟ كيفية التعرف على الهجمات وتجنبها",
+      "meta_description": "تعلم كيفية التعرف على عمليات التصيد الاحتيالي. يشرح هذا الدليل أنواعًا مختلفة من هجمات التصيد الاحتيالي ويقدم نصائح عملية لحماية حساباتك.",
+      "breadcrumbs": [
+        { "name": "دليل الأمن السيبراني", "href": "/learning/cybersecurity-guide" },
+        { "name": "ما هو التصيد الاحتيالي؟", "href": "/learning/cybersecurity-guide/what-is-phishing" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-17T11:00:00+00:00",
+        "dateModified": "2025-07-17T11:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>فن الخداع</h2><p>التصيد الاحتيالي هو نوع من الهجمات السيبرانية حيث ينتحل المهاجمون صفة منظمة أو شخص شرعي لخداع الضحايا للكشف عن معلومات حساسة. يمكن أن تشمل هذه المعلومات كلمات المرور، أرقام بطاقات الائتمان، أرقام الضمان الاجتماعي، أو بيانات شخصية أخرى. الطريقة الأكثر شيوعًا للتسليم هي رسالة بريد إلكتروني احتيالية، ولكن يمكن أن يحدث التصيد الاحتيالي أيضًا عبر الرسائل النصية (smishing) أو المكالمات الهاتفية (vishing).</p><h3>العلامات الرئيسية لرسالة تصيد احتيالي</h3><p>بينما تكون بعض محاولات التصيد متطورة، يحتوي الكثير منها على علامات حمراء. تعلم كيفية اكتشافها هو أفضل دفاع لك:</p><ul><li><strong>الشعور بالإلحاح:</strong> تخلق الرسالة ضغطًا بتهديدات مثل 'سيتم تعليق حسابك' أو 'تم اكتشاف تسجيل دخول غير عادي'. يريد المهاجمون منك التصرف بسرعة دون تفكير.</li><li><strong>تحيات عامة:</strong> بدلاً من استخدام اسمك، قد تبدأ الرسالة بـ 'عزيزي العميل' أو 'عزيزي العضو الكريم'. عادةً ما تخاطبك الشركات الشرعية باسمك.</li><li><strong>أخطاء إملائية ونحوية:</strong> على الرغم من عدم وجودها دائمًا، إلا أن الأخطاء النحوية والإملائية السيئة هي علامات شائعة على رسالة بريد إلكتروني احتيالية.</li><li><strong>روابط أو مرفقات مشبوهة:</strong> لا تنقر أبدًا على الروابط أو تنزل المرفقات من رسالة بريد إلكتروني لم تكن تتوقعها. مرر الماوس فوق الرابط لرؤية عنوان URL الوجهة الفعلي. إذا بدا غريبًا أو لا يتطابق مع نطاق المرسل، فمن المحتمل أن تكون محاولة تصيد.</li></ul><h3>ماذا تفعل إذا شككت في التصيد الاحتيالي</h3><p>إذا تلقيت رسالة بريد إلكتروني مشبوهة، فلا ترد، ولا تنقر على أي روابط، ولا تنزل أي مرفقات. الإجراء الأكثر أمانًا هو حذفها على الفور. إذا كانت الرسالة تدعي أنها من شركة تتعامل معها، فاذهب مباشرة إلى موقعها الرسمي عن طريق كتابة العنوان في متصفحك وقم بتسجيل الدخول هناك للتحقق من أي تنبيهات.</p>"
+    }
+  },
+  "privacy-guide/what-are-data-brokers": {
+    "en": {
+      "parent_pillar": "privacy-guide",
+      "category": "Digital Privacy",
+      "title": "What Are Data Brokers and How Do They Get Your Info?",
+      "meta_description": "Data brokers collect and sell your personal information. Learn how they operate and what you can do to protect your data privacy.",
+      "breadcrumbs": [
+        { "name": "Privacy Guide", "href": "/learning/privacy-guide" },
+        { "name": "What Are Data Brokers?", "href": "/learning/privacy-guide/what-are-data-brokers" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-18T09:00:00+00:00",
+        "dateModified": "2025-07-18T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>The Invisible Industry</h2><p>Data brokers are companies that specialize in collecting personal information about consumers and then selling that data to other organizations. They operate largely behind the scenes, creating detailed profiles about individuals without their direct knowledge. This is a multi-billion dollar industry.</p><h3>Where Do They Get Your Information?</h3><p>Data brokers pull information from a vast number of sources to build their profiles. These include:</p><ul><li><strong>Public Records:</strong> Information from government sources like property records, court records, marriage licenses, and voter registration files.</li><li><strong>Commercial Sources:</strong> Your purchasing history from loyalty cards, magazine subscriptions, and other consumer data.</li><li><strong>Online Sources:</strong> They scrape information you make public on social media profiles, forums, and other websites. They also purchase browsing history from various online trackers and cookies.</li></ul><h3>Why Should You Be Concerned?</h3><p>The profiles data brokers build can be incredibly detailed, including your age, address, income, health interests, political affiliation, and more. This data is often used for targeted advertising, but it can also be used for risk assessment by insurance companies, for background checks by potential employers, or it can be exposed in data breaches, putting you at risk of identity theft and scams.</p><h3>How Can You Protect Yourself?</h3><p>Protecting yourself from data brokers is challenging, but you can take steps. Many data brokers offer an 'opt-out' process on their websites, though it can often be difficult and time-consuming. You can also reduce the amount of public information you share on social media. Using tools like a <a href='/learning/vpn-guide'>VPN</a> can help prevent some forms of online tracking that data brokers use to gather information about your browsing habits.</p>"
+    },
+    "ar": {
+      "parent_pillar": "privacy-guide",
+      "category": "الخصوصية الرقمية",
+      "title": "ما هم وسطاء البيانات وكيف يحصلون على معلوماتك؟",
+      "meta_description": "يقوم وسطاء البيانات بجمع وبيع معلوماتك الشخصية. تعلم كيف يعملون وما يمكنك القيام به لحماية خصوصية بياناتك.",
+      "breadcrumbs": [
+        { "name": "دليل الخصوصية", "href": "/learning/privacy-guide" },
+        { "name": "ما هم وسطاء البيانات؟", "href": "/learning/privacy-guide/what-are-data-brokers" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-18T09:00:00+00:00",
+        "dateModified": "2025-07-18T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>الصناعة الخفية</h2><p>وسطاء البيانات هم شركات متخصصة في جمع المعلومات الشخصية عن المستهلكين ثم بيع تلك البيانات إلى منظمات أخرى. يعملون إلى حد كبير خلف الكواليس، وينشئون ملفات تعريف مفصلة عن الأفراد دون علمهم المباشر. هذه صناعة تقدر بمليارات الدولارات.</p><h3>من أين يحصلون على معلوماتك؟</h3><p>يسحب وسطاء البيانات المعلومات من عدد كبير من المصادر لبناء ملفاتهم الشخصية. وتشمل هذه:</p><ul><li><strong>السجلات العامة:</strong> معلومات من مصادر حكومية مثل سجلات الممتلكات، وسجلات المحاكم، وتراخيص الزواج، وملفات تسجيل الناخبين.</li><li><strong>المصادر التجارية:</strong> سجل الشراء الخاص بك من بطاقات الولاء، واشتراكات المجلات، وبيانات المستهلك الأخرى.</li><li><strong>المصادر عبر الإنترنت:</strong> يقومون بكشط المعلومات التي تجعلها عامة على ملفات تعريف وسائل التواصل الاجتماعي، والمنتديات، ومواقع الويب الأخرى. كما يقومون بشراء سجل التصفح من مختلف أجهزة التتبع عبر الإنترنت وملفات تعريف الارتباط.</li></ul><h3>لماذا يجب أن تقلق؟</h3><p>يمكن أن تكون الملفات الشخصية التي يبنيها وسطاء البيانات مفصلة بشكل لا يصدق، بما في ذلك عمرك وعنوانك ودخلك واهتماماتك الصحية وانتمائك السياسي والمزيد. غالبًا ما تستخدم هذه البيانات للإعلان المستهدف، ولكن يمكن استخدامها أيضًا لتقييم المخاطر من قبل شركات التأمين، وللتحقق من الخلفية من قبل أصحاب العمل المحتملين، أو يمكن كشفها في خروقات البيانات، مما يعرضك لخطر سرقة الهوية والاحتيال.</p><h3>كيف يمكنك حماية نفسك؟</h3><p>حماية نفسك من وسطاء البيانات أمر صعب، ولكن يمكنك اتخاذ خطوات. يقدم العديد من وسطاء البيانات عملية 'إلغاء الاشتراك' على مواقعهم الإلكترونية، على الرغم من أنها قد تكون صعبة وتستغرق وقتًا طويلاً. يمكنك أيضًا تقليل كمية المعلومات العامة التي تشاركها على وسائل التواصل الاجتماعي. يمكن أن يساعد استخدام أدوات مثل <a href='/ar/learning/vpn-guide'>الـ VPN</a> في منع بعض أشكال التتبع عبر الإنترنت التي يستخدمها وسطاء البيانات لجمع معلومات حول عادات التصفح الخاصة بك.</p>"
+    }
+  },
+  "vpn-guide/what-are-vpn-protocols": {
+    "en": {
+      "parent_pillar": "vpn-guide",
+      "category": "VPN Technology",
+      "title": "What Are VPN Protocols? A Simple Guide",
+      "meta_description": "Discover the most common VPN protocols like OpenVPN, IKEv2, and WireGuard. Understand how they impact your speed and security.",
+      "breadcrumbs": [
+        { "name": "VPN Guide", "href": "/learning/vpn-guide" },
+        { "name": "VPN Protocols", "href": "/learning/vpn-guide/what-are-vpn-protocols" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-16T10:00:00+00:00",
+        "dateModified": "2025-07-16T10:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>The Engine of Your VPN</h2><p>A VPN protocol is the set of rules that determines how data is packaged and sent between your device and the VPN server. Think of it as the 'engine' of your VPN. The protocol you choose directly impacts your connection's speed, stability, and <a href='/learning/cybersecurity-guide'>security</a>.</p><h3>The Most Common VPN Protocols</h3><p>While there are many protocols, you will most often encounter these three in modern VPN apps:</p><ul><li><strong>OpenVPN:</strong> For a long time, this was the industry standard. It's open-source, heavily audited, and very secure. It offers a great balance of speed and security but can sometimes be slower than newer options.</li><li><strong>IKEv2/IPsec:</strong> This protocol is known for its stability and speed, especially on mobile devices. It's excellent at re-establishing a connection if you switch between Wi-Fi and mobile data.</li><li><strong>WireGuard®:</strong> The newest major protocol. It uses modern cryptography and has a much smaller codebase, making it incredibly fast and very secure. Many top VPN providers are now adopting WireGuard as their default protocol.</li></ul><h3>Which Protocol Should You Use?</h3><p>For most users, the 'Automatic' setting in the VPN app is the best choice. The app will select the best protocol for your network conditions. However, if you prioritize raw speed for activities like gaming, WireGuard is often the best manual choice. If you prioritize maximum proven security, OpenVPN remains a rock-solid option. Choosing a protocol is a key step after you decide to <a href='/learning/hide-my-ip'>hide your IP address</a>.</p>"
+    },
+    "ar": {
+      "parent_pillar": "vpn-guide",
+      "category": "تقنية VPN",
+      "title": "ما هي بروتوكولات VPN؟ دليل بسيط",
+      "meta_description": "اكتشف بروتوكولات VPN الأكثر شيوعًا مثل OpenVPN و IKEv2 و WireGuard. افهم كيف تؤثر على سرعتك وأمانك.",
+      "breadcrumbs": [
+        { "name": "دليل VPN", "href": "/learning/vpn-guide" },
+        { "name": "بروتوكولات VPN", "href": "/learning/vpn-guide/what-are-vpn-protocols" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-16T10:00:00+00:00",
+        "dateModified": "2025-07-16T10:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>محرك الـ VPN الخاص بك</h2><p>بروتوكول الـ VPN هو مجموعة القواعد التي تحدد كيفية حزم البيانات وإرسالها بين جهازك وخادم الـ VPN. فكر فيه على أنه 'محرك' الـ VPN الخاص بك. البروتوكول الذي تختاره يؤثر بشكل مباشر على سرعة اتصالك واستقراره و<a href='/ar/learning/cybersecurity-guide'>أمانه</a>.</p><h3>بروتوكولات VPN الأكثر شيوعًا</h3><p>بينما توجد العديد من البروتوكولات، ستواجه في الغالب هذه الثلاثة في تطبيقات VPN الحديثة:</p><ul><li><strong>OpenVPN:</strong> لفترة طويلة، كان هذا هو المعيار الصناعي. إنه مفتوح المصدر، وقد تم تدقيقه بشكل مكثف، وهو آمن جدًا. يقدم توازنًا رائعًا بين السرعة والأمان ولكنه قد يكون أبطأ أحيانًا من الخيارات الأحدث.</li><li><strong>IKEv2/IPsec:</strong> يشتهر هذا البروتوكول باستقراره وسرعته، خاصة على الأجهزة المحمولة. إنه ممتاز في إعادة تأسيس الاتصال إذا قمت بالتبديل بين شبكة Wi-Fi وبيانات الهاتف المحمول.</li><li><strong>WireGuard®:</strong> أحدث بروتوكول رئيسي. يستخدم تشفيرًا حديثًا وله قاعدة كود أصغر بكثير، مما يجعله سريعًا بشكل لا يصدق وآمنًا جدًا. العديد من كبار مزودي خدمة VPN يعتمدون الآن WireGuard كبروتوكول افتراضي لهم.</li></ul><h3>أي بروتوكول يجب أن تستخدم؟</h3><p>بالنسبة لمعظم المستخدمين، فإن إعداد 'تلقائي' في تطبيق VPN هو الخيار الأفضل. سيقوم التطبيق بتحديد أفضل بروتوكول لظروف شبكتك. ومع ذلك، إذا كنت تعطي الأولوية للسرعة الخام لأنشطة مثل الألعاب، فغالباً ما يكون WireGuard هو أفضل خيار يدوي. إذا كنت تعطي الأولوية لأقصى درجات الأمان المثبتة، فإن OpenVPN يظل خيارًا قويًا. إن اختيار البروتوكول خطوة أساسية بعد أن تقرر <a href='/ar/learning/hide-my-ip'>إخفاء عنوان IP الخاص بك</a>.</p>"
+    }
+  },
+  "cybersecurity-guide/what-is-phishing": {
+    "en": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "Cyber Threats",
+      "title": "What is Phishing? How to Recognize and Avoid Attacks",
+      "meta_description": "Learn to identify phishing scams. This guide explains different types of phishing attacks and provides actionable tips to protect your accounts.",
+      "breadcrumbs": [
+        { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+        { "name": "What is Phishing?", "href": "/learning/cybersecurity-guide/what-is-phishing" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-17T11:00:00+00:00",
+        "dateModified": "2025-07-17T11:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>The Art of Deception</h2><p>Phishing is a type of cyberattack where attackers impersonate a legitimate organization or person to trick victims into revealing <a href='/learning/privacy-guide'>sensitive information</a>. This can include passwords, credit card numbers, social security numbers, or other personal data. The most common delivery method is a fraudulent email, but phishing can also occur via text messages (smishing) or phone calls (vishing).</p><h3>Key Signs of a Phishing Email</h3><p>While some phishing attempts are sophisticated, many contain red flags. Learning to spot them is your best defense:</p><ul><li><strong>Sense of Urgency:</strong> The email creates pressure with threats like 'Your account will be suspended' or 'Unusual login detected'. Attackers want you to act quickly without thinking.</li><li><strong>Generic Greetings:</strong> Instead of using your name, the email might start with 'Dear Customer' or 'Dear Valued Member'. Legitimate companies usually address you by name.</li><li><strong>Spelling and Grammar Mistakes:</strong> While not always present, poor grammar and spelling are common signs of a fraudulent email.</li><li><strong>Suspicious Links or Attachments:</strong> Never click on links or download attachments from an email you weren't expecting. Hover your mouse over a link to see the actual destination URL. If it looks strange or doesn't match the sender's domain, it's likely a phishing attempt.</li></ul><h3>What to Do if You Suspect Phishing</h3><p>If you receive a suspicious email, do not reply, click any links, or download attachments. The safest action is to delete it immediately. If the email claims to be from a company you do business with, go directly to their official website by typing the address into your browser and log in there to check for any alerts.</p>"
+    },
+    "ar": {
+      "parent_pillar": "التهديدات السيبرانية",
+      "category": "التهديدات السيبرانية",
+      "title": "ما هو التصيد الاحتيالي؟ كيفية التعرف على الهجمات وتجنبها",
+      "meta_description": "تعلم كيفية التعرف على عمليات التصيد الاحتيالي. يشرح هذا الدليل أنواعًا مختلفة من هجمات التصيد الاحتيالي ويقدم نصائح عملية لحماية حساباتك.",
+      "breadcrumbs": [
+        { "name": "دليل الأمن السيبراني", "href": "/learning/cybersecurity-guide" },
+        { "name": "ما هو التصيد الاحتيالي؟", "href": "/learning/cybersecurity-guide/what-is-phishing" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-17T11:00:00+00:00",
+        "dateModified": "2025-07-17T11:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>فن الخداع</h2><p>التصيد الاحتيالي هو نوع من الهجمات السيبرانية حيث ينتحل المهاجمون صفة منظمة أو شخص شرعي لخداع الضحايا للكشف عن <a href='/ar/learning/privacy-guide'>معلومات حساسة</a>. يمكن أن تشمل هذه المعلومات كلمات المرور، أرقام بطاقات الائتمان، أرقام الضمان الاجتماعي، أو بيانات شخصية أخرى. الطريقة الأكثر شيوعًا للتسليم هي رسالة بريد إلكتروني احتيالية، ولكن يمكن أن يحدث التصيد الاحتيالي أيضًا عبر الرسائل النصية (smishing) أو المكالمات الهاتفية (vishing).</p><h3>العلامات الرئيسية لرسالة تصيد احتيالي</h3><p>بينما تكون بعض محاولات التصيد متطورة، يحتوي الكثير منها على علامات حمراء. تعلم كيفية اكتشافها هو أفضل دفاع لك:</p><ul><li><strong>الشعور بالإلحاح:</strong> تخلق الرسالة ضغطًا بتهديدات مثل 'سيتم تعليق حسابك' أو 'تم اكتشاف تسجيل دخول غير عادي'. يريد المهاجمون منك التصرف بسرعة دون تفكير.</li><li><strong>تحيات عامة:</strong> بدلاً من استخدام اسمك، قد تبدأ الرسالة بـ 'عزيزي العميل' أو 'عزيزي العضو الكريم'. عادةً ما تخاطبك الشركات الشرعية باسمك.</li><li><strong>أخطاء إملائية ونحوية:</strong> على الرغم من عدم وجودها دائمًا، إلا أن الأخطاء النحوية والإملائية السيئة هي علامات شائعة على رسالة بريد إلكتروني احتيالية.</li><li><strong>روابط أو مرفقات مشبوهة:</strong> لا تنقر أبدًا على الروابط أو تنزل المرفقات من رسالة بريد إلكتروني لم تكن تتوقعها. مرر الماوس فوق الرابط لرؤية عنوان URL الوجهة الفعلي. إذا بدا غريبًا أو لا يتطابق مع نطاق المرسل، فمن المحتمل أن تكون محاولة تصيد.</li></ul><h3>ماذا تفعل إذا شككت في التصيد الاحتيالي</h3><p>إذا تلقيت رسالة بريد إلكتروني مشبوهة، فلا ترد، ولا تنقر على أي روابط، ولا تنزل أي مرفقات. الإجراء الأكثر أمانًا هو حذفها على الفور. إذا كانت الرسالة تدعي أنها من شركة تتعامل معها، فاذهب مباشرة إلى موقعها الرسمي عن طريق كتابة العنوان في متصفحك وقم بتسجيل الدخول هناك للتحقق من أي تنبيهات.</p>"
+    }
+  },
+  "privacy-guide/what-are-data-brokers": {
+    "en": {
+      "parent_pillar": "privacy-guide",
+      "category": "Digital Privacy",
+      "title": "What Are Data Brokers and How Do They Get Your Info?",
+      "meta_description": "Data brokers collect and sell your personal information. Learn how they operate and what you can do to protect your data privacy.",
+      "breadcrumbs": [
+        { "name": "Privacy Guide", "href": "/learning/privacy-guide" },
+        { "name": "What Are Data Brokers?", "href": "/learning/privacy-guide/what-are-data-brokers" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-18T09:00:00+00:00",
+        "dateModified": "2025-07-18T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>The Invisible Industry</h2><p>Data brokers are companies that specialize in collecting personal information about consumers and then selling that data to other organizations. They operate largely behind the scenes, creating detailed profiles about individuals without their direct knowledge. This is a multi-billion dollar industry.</p><h3>Where Do They Get Your Information?</h3><p>Data brokers pull information from a vast number of sources to build their profiles. These include:</p><ul><li><strong>Public Records:</strong> Information from government sources like property records, court records, marriage licenses, and voter registration files.</li><li><strong>Commercial Sources:</strong> Your purchasing history from loyalty cards, magazine subscriptions, and other consumer data.</li><li><strong>Online Sources:</strong> They scrape information you make public on social media profiles, forums, and other websites. They also purchase browsing history from various online trackers and cookies.</li></ul><h3>Why Should You Be Concerned?</h3><p>The profiles data brokers build can be incredibly detailed, including your age, address, income, health interests, political affiliation, and more. This data is often used for targeted advertising, but it can also be used for risk assessment by insurance companies, for background checks by potential employers, or it can be exposed in data breaches, putting you at risk of <a href='/learning/cybersecurity-guide/what-is-phishing'>identity theft and scams</a>.</p><h3>How Can You Protect Yourself?</h3><p>Protecting yourself from data brokers is challenging, but you can take steps. Many data brokers offer an 'opt-out' process on their websites, though it can often be difficult and time-consuming. You can also reduce the amount of public information you share on social media. Using tools like a <a href='/learning/vpn-guide'>VPN</a> can help prevent some forms of online tracking that data brokers use to gather information about your browsing habits.</p>"
+    },
+    "ar": {
+      "parent_pillar": "privacy-guide",
+      "category": "الخصوصية الرقمية",
+      "title": "ما هم وسطاء البيانات وكيف يحصلون على معلوماتك؟",
+      "meta_description": "يقوم وسطاء البيانات بجمع وبيع معلوماتك الشخصية. تعلم كيف يعملون وما يمكنك القيام به لحماية خصوصية بياناتك.",
+      "breadcrumbs": [
+        { "name": "دليل الخصوصية", "href": "/learning/privacy-guide" },
+        { "name": "ما هم وسطاء البيانات؟", "href": "/learning/privacy-guide/what-are-data-brokers" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-18T09:00:00+00:00",
+        "dateModified": "2025-07-18T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>الصناعة الخفية</h2><p>وسطاء البيانات هم شركات متخصصة في جمع المعلومات الشخصية عن المستهلكين ثم بيع تلك البيانات إلى منظمات أخرى. يعملون إلى حد كبير خلف الكواليس، وينشئون ملفات تعريف مفصلة عن الأفراد دون علمهم المباشر. هذه صناعة تقدر بمليارات الدولارات.</p><h3>من أين يحصلون على معلوماتك؟</h3><p>يسحب وسطاء البيانات المعلومات من عدد كبير من المصادر لبناء ملفاتهم الشخصية. وتشمل هذه:</p><ul><li><strong>السجلات العامة:</strong> معلومات من مصادر حكومية مثل سجلات الممتلكات، وسجلات المحاكم، وتراخيص الزواج، وملفات تسجيل الناخبين.</li><li><strong>المصادر التجارية:</strong> سجل الشراء الخاص بك من بطاقات الولاء، واشتراكات المجلات، وبيانات المستهلك الأخرى.</li><li><strong>المصادر عبر الإنترنت:</strong> يقومون بكشط المعلومات التي تجعلها عامة على ملفات تعريف وسائل التواصل الاجتماعي، والمنتديات، ومواقع الويب الأخرى. كما يقومون بشراء سجل التصفح من مختلف أجهزة التتبع عبر الإنترنت وملفات تعريف الارتباط.</li></ul><h3>لماذا يجب أن تقلق؟</h3><p>يمكن أن تكون الملفات الشخصية التي يبنيها وسطاء البيانات مفصلة بشكل لا يصدق، بما في ذلك عمرك وعنوانك ودخلك واهتماماتك الصحية وانتمائك السياسي والمزيد. غالبًا ما تستخدم هذه البيانات للإعلان المستهدف، ولكن يمكن استخدامها أيضًا لتقييم المخاطر من قبل شركات التأمين، وللتحقق من الخلفية من قبل أصحاب العمل المحتملين، أو يمكن كشفها في خروقات البيانات، مما يعرضك لخطر <a href='/ar/learning/cybersecurity-guide/what-is-phishing'>سرقة الهوية والاحتيال</a>.</p><h3>كيف يمكنك حماية نفسك؟</h3><p>حماية نفسك من وسطاء البيانات أمر صعب، ولكن يمكنك اتخاذ خطوات. يقدم العديد من وسطاء البيانات عملية 'إلغاء الاشتراك' على مواقعهم الإلكترونية، على الرغم من أنها قد تكون صعبة وتستغرق وقتًا طويلاً. يمكنك أيضًا تقليل كمية المعلومات العامة التي تشاركها على وسائل التواصل الاجتماعي. يمكن أن يساعد استخدام أدوات مثل <a href='/ar/learning/vpn-guide'>الـ VPN</a> في منع بعض أشكال التتبع عبر الإنترنت التي يستخدمها وسطاء البيانات لجمع معلومات حول عادات التصفح الخاصة بك.</p>"
+    }
+  },
+  "cybersecurity-guide/what-is-malware": {
+    "en": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "Cyber Threats",
+      "title": "What Is Malware? A Guide to Malicious Software",
+      "meta_description": "Learn what malware is, discover the most common types like viruses, ransomware, and spyware, and find out how to protect your devices.",
+      "breadcrumbs": [
+        { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+        { "name": "What Is Malware?", "href": "/learning/cybersecurity-guide/what-is-malware" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-12T11:00:00+00:00",
+        "dateModified": "2025-07-12T11:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>Defining Malicious Software</h2><p><strong>Malware</strong>, short for 'malicious software,' is a catch-all term for any software intentionally designed to cause damage to a computer, server, client, or computer network. It's a weapon used by cybercriminals to <a href='/learning/privacy-guide'>steal data</a>, disrupt operations, or demand money.</p><h3>The Most Common Types of Malware</h3><p>Malware comes in many forms, each with a different goal:</p><ul><li><strong>Viruses:</strong> A virus attaches itself to a clean file and spreads from computer to computer, often causing damage by corrupting data or destroying files.</li><li><strong>Worms:</strong> Unlike viruses, worms can replicate themselves and spread across networks without any human interaction. They often consume bandwidth and overload servers.</li><li><strong>Trojans (Trojan Horses):</strong> Disguised as legitimate software, a Trojan tricks you into installing it. Once inside, it can create backdoors for other malware, spy on your activity, or steal sensitive data.</li><li><strong>Ransomware:</strong> This particularly nasty malware encrypts your files and demands a ransom payment for the decryption key.</li><li><strong>Spyware:</strong> As the name suggests, spyware is designed to spy on you. It secretly gathers information about your online activities, including passwords and credit card numbers.</li></ul><h3>How Does Malware Spread?</h3><p>The most common infection vectors are email attachments, malicious advertisements on websites (malvertising), <a href='/learning/cybersecurity-guide/what-is-phishing'>phishing emails</a>, and downloads of pirated software. Staying vigilant is key to avoiding infection.</p><h3>How to Protect Yourself</h3><p>Protecting against malware requires a multi-layered approach:</p><ol><li><strong>Use Reputable Antivirus Software:</strong> This is your first and most important line of defense. Keep it updated.</li><li><strong>Be Skeptical of Emails:</strong> Don't open attachments or click links from unknown senders.</li><li><strong>Keep Software Updated:</strong> Always install operating system and application updates, as they often contain security patches.</li><li><strong>Download from Official Sources:</strong> Only download software from official websites or app stores.</li></ol>"
+    },
+    "ar": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "التهديدات السيبرانية",
+      "title": "ما هي البرامج الضارة؟ دليل للبرامج الخبيثة",
+      "meta_description": "تعرف على ماهية البرامج الضارة، واكتشف الأنواع الأكثر شيوعًا مثل الفيروسات وبرامج الفدية وبرامج التجسس، واكتشف كيفية حماية أجهزتك.",
+      "breadcrumbs": [
+        { "name": "دليل الأمن السيبراني", "href": "/learning/cybersecurity-guide" },
+        { "name": "ما هي البرامج الضارة؟", "href": "/learning/cybersecurity-guide/what-is-malware" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-12T11:00:00+00:00",
+        "dateModified": "2025-07-12T11:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>تعريف البرامج الخبيثة</h2><p><strong>البرامج الضارة (Malware)</strong>، وهي اختصار لـ 'البرامج الخبيثة'، هي مصطلح شامل لأي برنامج مصمم عمدًا لإلحاق الضرر بجهاز كمبيوتر أو خادم أو عميل أو شبكة كمبيوتر. إنها سلاح يستخدمه مجرمو الإنترنت <a href='/ar/learning/privacy-guide'>لسرقة البيانات</a> أو تعطيل العمليات أو طلب الأموال.</p><h3>الأنواع الأكثر شيوعًا للبرامج الضارة</h3><p>تأتي البرامج الضارة بأشكال عديدة، لكل منها هدف مختلف:</p><ul><li><strong>الفيروسات (Viruses):</strong> يربط الفيروس نفسه بملف نظيف وينتشر من كمبيوتر إلى آخر، وغالبًا ما يتسبب في تلف عن طريق إتلاف البيانات أو تدمير الملفات.</li><li><strong>الديدان (Worms):</strong> على عكس الفيروسات، يمكن للديدان أن تنسخ نفسها وتنتشر عبر الشبكات دون أي تفاعل بشري. غالبًا ما تستهلك عرض النطاق الترددي وتثقل كاهل الخوادم.</li><li><strong>أحصنة طروادة (Trojans):</strong> يتنكر حصان طروادة في شكل برنامج شرعي، ويخدعك لتثبيته. بمجرد دخوله، يمكنه إنشاء أبواب خلفية لبرامج ضارة أخرى، أو التجسس على نشاطك، أو سرقة البيانات الحساسة.</li><li><strong>برامج الفدية (Ransomware):</strong> تقوم هذه البرامج الضارة الخبيثة بتشفير ملفاتك وتطالب بدفع فدية مقابل مفتاح فك التشفير.</li><li><strong>برامج التجسس (Spyware):</strong> كما يوحي الاسم، تم تصميم برامج التجسس للتجسس عليك. فهي تجمع سرًا معلومات حول أنشطتك عبر الإنترنت، بما في ذلك كلمات المرور وأرقام بطاقات الائتمان.</li></ul><h3>كيف تنتشر البرامج الضارة؟</h3><p>أكثر طرق العدوى شيوعًا هي مرفقات البريد الإلكتروني، والإعلانات الخبيثة على مواقع الويب (malvertising)، و<a href='/ar/learning/cybersecurity-guide/what-is-phishing'>رسائل التصيد الاحتيالي</a>، وتنزيلات البرامج المقرصنة. اليقظة هي مفتاح تجنب العدوى.</p><h3>كيف تحمي نفسك</h3><p>تتطلب الحماية من البرامج الضارة نهجًا متعدد الطبقات:</p><ol><li><strong>استخدم برنامج مكافحة فيروسات حسن السمعة:</strong> هذا هو خط الدفاع الأول والأكثر أهمية. حافظ على تحديثه.</li><li><strong>كن متشككًا في رسائل البريد الإلكتروني:</strong> لا تفتح المرفقات أو تنقر على الروابط من المرسلين غير المعروفين.</li><li><strong>حافظ على تحديث البرامج:</strong> قم دائمًا بتثبيت تحديثات نظام التشغيل والتطبيقات، حيث إنها غالبًا ما تحتوي على تصحيحات أمنية.</li><li><strong>قم بالتنزيل من مصادر رسمية:</strong> قم بتنزيل البرامج فقط من مواقع الويب الرسمية أو متاجر التطبيقات.</li></ol>"
+    }
+  },
+  "cybersecurity-guide/router-security": {
+    "en": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "Home Network Security",
+      "title": "Router Security 101: Your First Line of Defense",
+      "meta_description": "Your Wi-Fi router is the gateway to your digital life. Learn these essential steps to secure your router and protect your entire home network from intruders.",
+      "breadcrumbs": [
+        { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+        { "name": "Router Security", "href": "/learning/cybersecurity-guide/router-security" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-21T09:00:00+00:00",
+        "dateModified": "2025-07-21T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>Why Your Router is Critical</h2><p>Your Wi-Fi router is the main entry point for the internet into your home. Every device you own—computers, phones, smart TVs, security cameras—connects through it. If your router is compromised, every device on your network is at risk. Securing it is the single most important step you can take for your home's <a href='/learning/cybersecurity-guide'>digital security</a>.</p><h3>7 Essential Steps to Secure Your Router</h3><p>Follow these steps to lock down your home network:</p><ol><li><strong>Change the Default Admin Password:</strong> Every router comes with a default username and password (like 'admin'/'password'). This is the first thing an attacker will try. Change it immediately to something long and unique.</li><li><strong>Use Strong Wi-Fi Encryption (WPA3):</strong> In your router settings, ensure your Wi-Fi is protected with WPA3 or, at a minimum, WPA2-AES encryption. Avoid outdated and insecure options like WEP or WPA.</li><li><strong>Change Your Network Name (SSID):</strong> Don't use your family name or other personal information in your Wi-Fi name. Change it to something generic that doesn't identify you.</li><li><strong>Keep Firmware Updated:</strong> Router manufacturers release firmware updates to patch security holes. Check for and install updates regularly through your router's admin panel.</li><li><strong>Enable the Firewall:</strong> Most routers have a built-in firewall that should be enabled by default. Double-check that it's active.</li><li><strong>Disable WPS (Wi-Fi Protected Setup):</strong> While convenient, WPS has known security vulnerabilities that can allow attackers to gain access to your network. It's safer to disable it.</li><li><strong>Create a Guest Network:</strong> If your router supports it, create a separate guest network for visitors. This isolates their devices from your main network, protecting your personal files and devices.</li></ol>"
+    },
+    "ar": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "أمان الشبكة المنزلية",
+      "title": "أساسيات أمان الراوتر: خط دفاعك الأول",
+      "meta_description": "راوتر الواي فاي الخاص بك هو بوابة حياتك الرقمية. تعلم هذه الخطوات الأساسية لتأمين الراوتر وحماية شبكتك المنزلية بأكملها من المتسللين.",
+      "breadcrumbs": [
+        { "name": "دليل الأمن السيبراني", "href": "/ar/learning/cybersecurity-guide" },
+        { "name": "أمان الراوتر", "href": "/ar/learning/cybersecurity-guide/router-security" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-21T09:00:00+00:00",
+        "dateModified": "2025-07-21T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>لماذا يعتبر الراوتر الخاص بك حاسمًا؟</h2><p>راوتر الواي فاي الخاص بك هو نقطة الدخول الرئيسية للإنترنت إلى منزلك. كل جهاز تملكه - أجهزة الكمبيوتر والهواتف وأجهزة التلفزيون الذكية والكاميرات الأمنية - يتصل من خلاله. إذا تم اختراق الراوتر الخاص بك، فإن كل جهاز على شبكتك معرض للخطر. تأمينه هو أهم خطوة يمكنك اتخاذها لـ<a href='/ar/learning/cybersecurity-guide'>الأمان الرقمي</a> لمنزلك.</p><h3>7 خطوات أساسية لتأمين الراوتر الخاص بك</h3><p>اتبع هذه الخطوات لتأمين شبكتك المنزلية:</p><ol><li><strong>تغيير كلمة مرور المسؤول الافتراضية:</strong> يأتي كل راوتر باسم مستخدم وكلمة مرور افتراضيين (مثل 'admin'/'password'). هذا هو أول شيء سيحاوله المهاجم. قم بتغييره على الفور إلى شيء طويل وفريد.</li><li><strong>استخدم تشفير Wi-Fi قوي (WPA3):</strong> في إعدادات الراوتر، تأكد من حماية شبكة الواي فاي الخاصة بك بتشفير WPA3 أو على الأقل WPA2-AES. تجنب الخيارات القديمة وغير الآمنة مثل WEP أو WPA.</li><li><strong>تغيير اسم شبكتك (SSID):</strong> لا تستخدم اسم عائلتك أو معلومات شخصية أخرى في اسم شبكة الواي فاي الخاصة بك. قم بتغييره إلى شيء عام لا يحدد هويتك.</li><li><strong>حافظ على تحديث البرنامج الثابت (Firmware):</strong> يصدر مصنعو أجهزة الراوتر تحديثات للبرنامج الثابت لسد الثغرات الأمنية. تحقق من وجود تحديثات وقم بتثبيتها بانتظام من خلال لوحة تحكم المسؤول في الراوتر.</li><li><strong>تمكين جدار الحماية (Firewall):</strong> تحتوي معظم أجهزة الراوتر على جدار حماية مدمج يجب تمكينه افتراضيًا. تحقق مرة أخرى من أنه نشط.</li><li><strong>تعطيل WPS (Wi-Fi Protected Setup):</strong> على الرغم من ملاءمته، إلا أن WPS به ثغرات أمنية معروفة يمكن أن تسمح للمهاجمين بالوصول إلى شبكتك. من الأسلم تعطيله.</li><li><strong>إنشاء شبكة للضيوف:</strong> إذا كان الراوتر الخاص بك يدعم ذلك، فقم بإنشاء شبكة ضيوف منفصلة للزوار. هذا يعزل أجهزتهم عن شبكتك الرئيسية، ويحمي ملفاتك وأجهزتك الشخصية.</li></ol>"
+    }
+  },
+  "privacy-guide/browser-privacy": {
+    "en": {
+      "parent_pillar": "privacy-guide",
+      "category": "Privacy Tools & Settings",
+      "title": "How to Optimize Your Browser for Maximum Privacy",
+      "meta_description": "Your browser is your window to the web. Learn how to configure its settings and use powerful extensions to block trackers and protect your personal data.",
+      "breadcrumbs": [
+        { "name": "Privacy Guide", "href": "/learning/privacy-guide" },
+        { "name": "Browser Privacy", "href": "/learning/privacy-guide/browser-privacy" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-22T09:00:00+00:00",
+        "dateModified": "2025-07-22T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>Your Browser: The First Line of Privacy Defense</h2><p>Your web browser is your primary tool for navigating the internet, but its default settings are often designed for convenience, not privacy. Taking a few minutes to configure your browser is a crucial step in reducing your <a href='/learning/privacy-guide'>digital footprint</a> and protecting yourself from widespread online tracking.</p><h3>1. Choose a Privacy-Focused Browser</h3><p>Not all browsers are created equal. While browsers like Google Chrome are popular, they are also part of a massive data collection ecosystem. For better privacy out-of-the-box, consider alternatives:</p><ul><li><strong>Mozilla Firefox:</strong> Highly customizable with strong, built-in Enhanced Tracking Protection.</li><li><strong>Brave:</strong> Comes with an aggressive, built-in ad and tracker blocker (Brave Shields).</li></ul><h3>2. Essential Settings to Configure</h3><p>Regardless of your browser, you should dive into the settings and make these changes:</p><ul><li><strong>Block Third-Party Cookies:</strong> This is the most important setting. Third-party cookies are the primary way advertisers track you across different websites.</li><li><strong>Enable 'Do Not Track':</strong> While not all websites honor it, sending a 'Do Not Track' request is still a good practice.</li><li><strong>Change Your Default Search Engine:</strong> Switch from Google to a privacy-respecting search engine like DuckDuckGo or Startpage.</li></ul><h3>3. Supercharge Your Privacy with Extensions</h3><p>Extensions can add powerful layers of protection:</p><ul><li><strong>uBlock Origin:</strong> More than just an ad-blocker, it's a wide-spectrum content blocker that stops ads and trackers.</li><li><strong>Privacy Badger:</strong> Developed by the EFF, this extension automatically learns to block invisible trackers.</li></ul><h3>4. The Final Layer: A VPN</h3><p>Even with a perfectly configured browser, your Internet Service Provider (ISP) can still see the websites you visit. Furthermore, your <a href='/learning/ip-address-guide'>IP address</a> remains visible. To achieve true privacy, you must combine a secure browser with a trusted <a href='/learning/vpn-guide'>VPN</a>. A VPN encrypts all your traffic and hides your real IP address, making your activity private from your ISP and anonymous to the websites you visit.</p>"
+    },
+    "ar": {
+      "parent_pillar": "privacy-guide",
+      "category": "أدوات وإعدادات الخصوصية",
+      "title": "كيفية تحسين متصفحك للحصول على أقصى قدر من الخصوصية",
+      "meta_description": "متصفحك هو نافذتك على الويب. تعلم كيفية تكوين إعداداته واستخدام الإضافات القوية لحظر أدوات التتبع وحماية بياناتك الشخصية.",
+      "breadcrumbs": [
+        { "name": "دليل الخصوصية", "href": "/ar/learning/privacy-guide" },
+        { "name": "خصوصية المتصفح", "href": "/ar/learning/privacy-guide/browser-privacy" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-22T09:00:00+00:00",
+        "dateModified": "2025-07-22T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>متصفحك: خط الدفاع الأول للخصوصية</h2><p>متصفح الويب الخاص بك هو أداتك الأساسية للتنقل عبر الإنترنت، ولكن إعداداته الافتراضية غالبًا ما تكون مصممة للراحة، وليس للخصوصية. إن قضاء بضع دقائق في تكوين متصفحك هو خطوة حاسمة في تقليل <a href='/ar/learning/privacy-guide'>بصمتك الرقمية</a> وحماية نفسك من التتبع المنتشر عبر الإنترنت.</p><h3>١. اختر متصفحًا يركز على الخصوصية</h3><p>ليست كل المتصفحات متساوية. في حين أن المتصفحات مثل Google Chrome شائعة، إلا أنها أيضًا جزء من نظام بيئي ضخم لجمع البيانات. للحصول على خصوصية أفضل بشكل افتراضي، فكر في البدائل:</p><ul><li><strong>Mozilla Firefox:</strong> قابل للتخصيص بدرجة عالية مع حماية تتبع محسّنة قوية ومدمجة.</li><li><strong>Brave:</strong> يأتي مع مانع إعلانات ومتتبعات مدمج وقوي (Brave Shields).</li></ul><h3>٢. إعدادات أساسية يجب تكوينها</h3><p>بغض النظر عن متصفحك، يجب عليك الدخول إلى الإعدادات وإجراء هذه التغييرات:</p><ul><li><strong>حظر ملفات تعريف الارتباط التابعة لجهات خارجية:</strong> هذا هو الإعداد الأكثر أهمية. تعد ملفات تعريف الارتباط التابعة لجهات خارجية هي الطريقة الأساسية التي يتتبعك بها المعلنون عبر مواقع الويب المختلفة.</li><li><strong>تمكين 'عدم التعقب' (Do Not Track):</strong> على الرغم من أن ليس كل مواقع الويب تحترمه، إلا أن إرسال طلب 'عدم التعقب' لا يزال ممارسة جيدة.</li><li><strong>تغيير محرك البحث الافتراضي الخاص بك:</strong> قم بالتبديل من Google إلى محرك بحث يحترم الخصوصية مثل DuckDuckGo أو Startpage.</li></ul><h3>٣. عزز خصوصيتك بالإضافات</h3><p>يمكن أن تضيف الإضافات طبقات قوية من الحماية:</p><ul><li><strong>uBlock Origin:</strong> أكثر من مجرد مانع إعلانات، إنه مانع محتوى واسع النطاق يوقف الإعلانات وأدوات التتبع.</li><li><strong>Privacy Badger:</strong> تم تطويره بواسطة EFF، وتتعلم هذه الإضافة تلقائيًا حظر أدوات التتبع غير المرئية.</li></ul><h3>٤. الطبقة الأخيرة: الـ VPN</h3><p>حتى مع وجود متصفح تم تكوينه بشكل مثالي، لا يزال بإمكان مزود خدمة الإنترنت (ISP) رؤية مواقع الويب التي تزورها. علاوة على ذلك، يظل <a href='/ar/learning/ip-address-guide'>عنوان IP الخاص بك</a> مرئيًا. لتحقيق خصوصية حقيقية، يجب عليك الجمع بين متصفح آمن و <a href='/ar/learning/vpn-guide'>VPN</a> موثوق به. يقوم الـ VPN بتشفير كل حركة المرور الخاصة بك وإخفاء عنوان IP الحقيقي الخاص بك، مما يجعل نشاطك خاصًا عن مزود خدمة الإنترنت ومجهول الهوية للمواقع التي تزورها.</p>"
+    }
+  },
+   "privacy-guide/social-media": {
+    "en": {
+      "parent_pillar": "privacy-guide",
+      "category": "Digital Footprint",
+      "title": "How to Secure Your Social Media Accounts",
+      "meta_description": "Your social media profiles contain a wealth of personal data. Learn how to lock down your privacy settings on platforms like Facebook, Instagram, and Twitter.",
+      "breadcrumbs": [
+        { "name": "Privacy Guide", "href": "/learning/privacy-guide" },
+        { "name": "Social Media Privacy", "href": "/learning/privacy-guide/social-media" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-23T09:00:00+00:00",
+        "dateModified": "2025-07-23T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>Your Social Life is Your Data</h2><p>Social media platforms are designed to encourage sharing, but this often comes at the cost of your privacy. Every photo, status update, and check-in adds to your <a href='/learning/privacy-guide'>digital footprint</a> and can be collected by the platform, <a href='/learning/privacy-guide/what-are-data-brokers'>data brokers</a>, and potentially malicious actors. Securing your accounts is not optional; it's essential.</p><h3>Universal Privacy Steps for Any Platform</h3><ol><li><strong>Conduct a Privacy Checkup:</strong> Most major platforms (Facebook, Google, etc.) have a built-in 'Privacy Checkup' tool. Use it. It will guide you through your most important settings.</li><li><strong>Set Your Profile to Private:</strong> This is the single most effective step. It ensures that only people you approve can see your posts and personal information.</li><li><strong>Be Selective with Friend Requests:</strong> Don't accept requests from people you don't know. They could be fake profiles designed to scrape your data.</li><li><strong>Limit Ad Tracking:</strong> Go into your account's ad settings. You can often limit how the platform uses your data to show you personalized ads.</li><li><strong>Turn Off Location Services:</strong> Do not allow the app to track your location constantly. Only grant location permission while using the app if absolutely necessary, and avoid tagging your exact location in posts.</li></ol><h3>The Risk of Third-Party Apps</h3><p>Be extremely cautious about connecting third-party apps and quizzes to your social media accounts. When you grant access, you are often giving them permission to view your friend list, posts, and personal details. Regularly review and remove any connected apps you no longer use or trust.</p>"
+    },
+    "ar": {
+      "parent_pillar": "privacy-guide",
+      "category": "البصمة الرقمية",
+      "title": "كيفية تأمين حسابات وسائل التواصل الاجتماعي الخاصة بك",
+      "meta_description": "تحتوي ملفاتك الشخصية على وسائل التواصل الاجتماعي على ثروة من البيانات الشخصية. تعلم كيفية إغلاق إعدادات الخصوصية الخاصة بك على منصات مثل فيسبوك وإنستغرام وتويتر.",
+      "breadcrumbs": [
+        { "name": "دليل الخصوصية", "href": "/ar/learning/privacy-guide" },
+        { "name": "خصوصية وسائل التواصل", "href": "/ar/learning/privacy-guide/social-media" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-23T09:00:00+00:00",
+        "dateModified": "2025-07-23T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>حياتك الاجتماعية هي بياناتك</h2><p>تم تصميم منصات التواصل الاجتماعي لتشجيع المشاركة، ولكن هذا غالبًا ما يأتي على حساب خصوصيتك. كل صورة وتحديث حالة وتسجيل وصول يضيف إلى <a href='/ar/learning/privacy-guide'>بصمتك الرقمية</a> ويمكن جمعه بواسطة المنصة و<a href='/ar/learning/privacy-guide/what-are-data-brokers'>وسطاء البيانات</a> والجهات الخبيثة المحتملة. تأمين حساباتك ليس اختياريًا؛ إنه ضروري.</p><h3>خطوات خصوصية عالمية لأي منصة</h3><ol><li><strong>إجراء فحص الخصوصية:</strong> تحتوي معظم المنصات الرئيسية (فيسبوك، جوجل، إلخ) على أداة 'فحص الخصوصية' المدمجة. استخدمها. ستوجهك عبر أهم إعداداتك.</li><li><strong>اجعل ملفك الشخصي خاصًا:</strong> هذه هي الخطوة الأكثر فعالية. تضمن أن الأشخاص الذين توافق عليهم فقط يمكنهم رؤية منشوراتك ومعلوماتك الشخصية.</li><li><strong>كن انتقائيًا في طلبات الصداقة:</strong> لا تقبل طلبات من أشخاص لا تعرفهم. قد تكون ملفات تعريف مزيفة مصممة لجمع بياناتك.</li><li><strong>الحد من تتبع الإعلانات:</strong> انتقل إلى إعدادات الإعلانات في حسابك. يمكنك غالبًا تحديد كيفية استخدام المنصة لبياناتك لعرض إعلانات مخصصة لك.</li><li><strong>إيقاف خدمات الموقع:</strong> لا تسمح للتطبيق بتتبع موقعك باستمرار. امنح إذن الموقع فقط أثناء استخدام التطبيق إذا كان ذلك ضروريًا للغاية، وتجنب الإشارة إلى موقعك الدقيق في المنشورات.</li></ol><h3>مخاطر تطبيقات الطرف الثالث</h3><p>كن حذرًا للغاية بشأن ربط تطبيقات واختبارات الطرف الثالث بحساباتك على وسائل التواصل الاجتماعي. عندما تمنح حق الوصول، فإنك غالبًا ما تمنحهم الإذن بعرض قائمة أصدقائك ومنشوراتك وتفاصيلك الشخصية. راجع بانتظام وأزل أي تطبيقات متصلة لم تعد تستخدمها أو تثق بها.</p>"
+    }
+  },
+  "vpn-guide/how-vpns-work": {
+    "en": {
+      "parent_pillar": "vpn-guide",
+      "category": "VPN Technology",
+      "title": "How Does a VPN Work? The Technical Details Explained",
+      "meta_description": "Go behind the scenes and learn how a VPN works. Understand the concepts of tunneling, encryption, and IP masking to see how your privacy is protected.",
+      "breadcrumbs": [
+        { "name": "VPN Guide", "href": "/learning/vpn-guide" },
+        { "name": "How VPNs Work", "href": "/learning/vpn-guide/how-vpns-work" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-24T09:00:00+00:00",
+        "dateModified": "2025-07-24T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>From Your Device to the Web, Securely</h2><p>When you connect to the internet without a VPN, your traffic goes directly from your device to the websites you visit, visible to your Internet Service Provider (ISP). A VPN fundamentally changes this process by creating a secure, private pathway for your data. Here’s how it works in four key steps:</p><h3>Step 1: Authentication</h3><p>First, your VPN client (the app on your device) establishes a secure connection with the VPN server. This process involves authentication, where the client and server verify each other's legitimacy using credentials. This ensures you're connecting to a real VPN server and not an impostor.</p><h3>Step 2: Tunneling</h3><p>Once authenticated, the VPN creates an encrypted 'tunnel' through the open internet. This tunnel is established using a <a href='/learning/vpn-guide/what-are-vpn-protocols'>VPN protocol</a> (like OpenVPN or WireGuard). All data that passes between your device and the VPN server will now travel exclusively within this secure tunnel, isolating it from the rest of the internet traffic.</p><h3>Step 3: Encryption</h3><p>This is the most critical step for privacy. As your data enters the tunnel, the VPN encrypts it. This means it's scrambled into an unreadable code using complex algorithms (like AES-256). If anyone—your ISP, a hacker on public Wi-Fi, or a government agency—were to intercept your data, they would only see gibberish. This is the key advantage a VPN has over a <a href='/learning/proxies-explained'>proxy server</a>, which typically does not encrypt your traffic.</p><h3>Step 4: IP Masking</h3><p>Finally, when your encrypted traffic reaches the VPN server, the server decrypts it and sends it to its final destination (e.g., the website you want to visit). When it does this, it replaces your real <a href='/learning/ip-address-guide'>IP address</a> with its own. The website sees the request coming from the VPN server's IP address and location, not yours. This process, known as IP masking, makes you appear anonymous and as if you are browsing from the server's location.</p>"
+    },
+    "ar": {
+      "parent_pillar": "vpn-guide",
+      "category": "تقنية VPN",
+      "title": "كيف تعمل الـ VPN؟ شرح التفاصيل التقنية",
+      "meta_description": "ادخل وراء الكواليس وتعلم كيف تعمل الـ VPN. افهم مفاهيم الأنفاق والتشفير وإخفاء IP لترى كيف تتم حماية خصوصيتك.",
+      "breadcrumbs": [
+        { "name": "دليل VPN", "href": "/ar/learning/vpn-guide" },
+        { "name": "كيف تعمل الـ VPN", "href": "/ar/learning/vpn-guide/how-vpns-work" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-24T09:00:00+00:00",
+        "dateModified": "2025-07-24T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>من جهازك إلى الويب، بأمان</h2><p>عندما تتصل بالإنترنت بدون VPN، تذهب حركة المرور الخاصة بك مباشرة من جهازك إلى مواقع الويب التي تزورها، وتكون مرئية لمزود خدمة الإنترنت (ISP). يغير الـ VPN هذه العملية بشكل أساسي عن طريق إنشاء مسار آمن وخاص لبياناتك. إليك كيف يعمل في أربع خطوات رئيسية:</p><h3>الخطوة 1: المصادقة (Authentication)</h3><p>أولاً، ينشئ عميل الـ VPN (التطبيق الموجود على جهازك) اتصالاً آمنًا مع خادم الـ VPN. تتضمن هذه العملية المصادقة، حيث يتحقق العميل والخادم من شرعية بعضهما البعض باستخدام بيانات الاعتماد. هذا يضمن أنك تتصل بخادم VPN حقيقي وليس منتحلاً.</p><h3>الخطوة 2: إنشاء النفق (Tunneling)</h3><p>بمجرد المصادقة، ينشئ الـ VPN 'نفقًا' مشفرًا عبر الإنترنت المفتوح. يتم إنشاء هذا النفق باستخدام <a href='/ar/learning/vpn-guide/what-are-vpn-protocols'>بروتوكول VPN</a> (مثل OpenVPN أو WireGuard). ستنتقل جميع البيانات التي تمر بين جهازك وخادم الـ VPN الآن حصريًا داخل هذا النفق الآمن، مما يعزلها عن بقية حركة المرور على الإنترنت.</p><h3>الخطوة 3: التشفير (Encryption)</h3><p>هذه هي الخطوة الأكثر أهمية للخصوصية. عندما تدخل بياناتك النفق، يقوم الـ VPN بتشفيرها. هذا يعني أنها تتحول إلى رمز غير قابل للقراءة باستخدام خوارزميات معقدة (مثل AES-256). إذا اعترض أي شخص - مزود خدمة الإنترنت الخاص بك، أو متسلل على شبكة Wi-Fi عامة، أو وكالة حكومية - بياناتك، فلن يروا سوى كلامًا غير مفهوم. هذه هي الميزة الرئيسية التي يتمتع بها الـ VPN على <a href='/ar/learning/proxies-explained'>خادم البروكسي</a>، الذي لا يقوم عادةً بتشفير حركة المرور الخاصة بك.</p><h3>الخطوة 4: إخفاء IP (IP Masking)</h3><p>أخيرًا، عندما تصل حركة المرور المشفرة إلى خادم الـ VPN، يقوم الخادم بفك تشفيرها وإرسالها إلى وجهتها النهائية (مثل موقع الويب الذي تريد زيارته). عند القيام بذلك، فإنه يستبدل <a href='/ar/learning/ip-address-guide'>عنوان IP الحقيقي الخاص بك</a> بعنوان IP الخاص به. يرى موقع الويب الطلب قادمًا من عنوان IP وموقع خادم الـ VPN، وليس من عندك. هذه العملية، المعروفة باسم إخفاء IP، تجعلك تبدو مجهول الهوية وكأنك تتصفح من موقع الخادم.</p>"
+    }
+  },
+   "vpn-guide/are-vpns-legal": {
+    "en": {
+      "parent_pillar": "vpn-guide",
+      "category": "VPN Legality & Ethics",
+      "title": "Are VPNs Legal to Use?",
+      "meta_description": "Understand the legality of using a VPN. Learn where VPNs are legal, restricted, or banned, and the importance of using them responsibly.",
+      "breadcrumbs": [
+        { "name": "VPN Guide", "href": "/learning/vpn-guide" },
+        { "name": "Are VPNs Legal?", "href": "/learning/vpn-guide/are-vpns-legal" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-25T09:00:00+00:00",
+        "dateModified": "2025-07-25T09:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>The Legal Landscape of VPNs</h2><p>For the vast majority of the world, using a VPN (Virtual Private Network) is perfectly legal. Countries like the United States, Canada, the UK, and most of Europe have no laws against using VPNs for privacy and security.</p><h3>Where are VPNs Restricted or Illegal?</h3><p>However, some countries regulate or ban VPN use. These include China, Russia, Iran, and the UAE. In these places, using a government-unapproved VPN can lead to fines or other penalties.</p><h3>Legality Depends on Your Actions</h3><p>The most important rule is this: <strong>a VPN does not make illegal activities legal</strong>. If you use a VPN for copyright infringement, hacking, or other cybercrimes, you are still breaking the law. A VPN is a tool for privacy, not for immunity. Always check the laws in your specific country before use.</p>"
+    },
+    "ar": {
+      "parent_pillar": "vpn-guide",
+      "category": "قانونية وأخلاقيات الـ VPN",
+      "title": "هل استخدام الـ VPN قانوني؟",
+      "meta_description": "افهم قانونية استخدام الـ VPN. تعلم أين تكون شبكات الـ VPN قانونية أو مقيدة أو محظورة، وأهمية استخدامها بمسؤولية.",
+      "breadcrumbs": [
+        { "name": "دليل VPN", "href": "/learning/vpn-guide" },
+        { "name": "هل الـ VPN قانوني؟", "href": "/learning/vpn-guide/are-vpns-legal" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-25T09:00:00+00:00",
+        "dateModified": "2025-07-25T09:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>المشهد القانوني لشبكات الـ VPN</h2><p>بالنسبة للغالبية العظمى من دول العالم، فإن استخدام الشبكة الافتراضية الخاصة (VPN) أمر قانوني تمامًا. لا توجد في دول مثل الولايات المتحدة وكندا والمملكة المتحدة ومعظم دول أوروبا قوانين تمنع استخدام الـ VPN لأغراض الخصوصية والأمان.</p><h3>أين تكون شبكات الـ VPN مقيدة أو غير قانونية؟</h3><p>ومع ذلك، تقوم بعض البلدان بتنظيم أو حظر استخدام الـ VPN. تشمل هذه الدول الصين وروسيا وإيران والإمارات العربية المتحدة. في هذه الأماكن، يمكن أن يؤدي استخدام VPN غير معتمد من الحكومة إلى غرامات أو عقوبات أخرى.</p><h3>القانونية تعتمد على أفعالك</h3><p>القاعدة الأهم هي: <strong>الـ VPN لا يجعل الأنشطة غير القانونية قانونية</strong>. إذا كنت تستخدم VPN لانتهاك حقوق النشر أو القرصنة أو جرائم إلكترونية أخرى، فأنت لا تزال تخالف القانون. الـ VPN هو أداة للخصوصية وليس للحصانة. تحقق دائمًا من القوانين في بلدك المحدد قبل الاستخدام.</p>"
+    }
+  },  "ip-address-guide/dynamic-vs-static-ip": {
+    "en": {
+      "parent_pillar": "ip-address-guide",
+      "category": "IP Address Types",
+      "title": "Dynamic IP vs. Static IP: What's the Difference?",
+      "meta_description": "Learn the key differences between a dynamic IP address, which changes over time, and a static IP address, which remains the same.",
+      "breadcrumbs": [
+        { "name": "IP Address Guide", "href": "/learning/ip-address-guide" },
+        { "name": "Dynamic vs. Static IP", "href": "/learning/ip-address-guide/dynamic-vs-static-ip" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-26T10:00:00+00:00",
+        "dateModified": "2025-07-26T10:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>Your IP Address: Is it Permanent?</h2><p>Not all IP addresses are created equal. They generally fall into two categories: dynamic or static.</p><h3>Dynamic IP Address</h3><p>A dynamic IP address is a temporary address that is assigned to a device by an Internet Service Provider (ISP) each time it connects to the network. These IPs are drawn from a pool of available addresses. For most home users, this is the standard. It's cost-effective for ISPs and offers a small degree of privacy since your address changes periodically.</p><h3>Static IP Address</h3><p>A static IP address is a fixed, unchanging address. Businesses often use static IPs for hosting websites, email servers, or providing remote access to employees, as a consistent address is required. While reliable, they can be a security risk if not properly secured, as they provide a constant target for attackers.</p>"
+    },
+    "ar": {
+      "parent_pillar": "ip-address-guide",
+      "category": "أنواع عناوين IP",
+      "title": "IP الديناميكي مقابل IP الثابت: ما الفرق؟",
+      "meta_description": "تعلم الفروق الرئيسية بين عنوان IP الديناميكي، الذي يتغير بمرور الوقت، وعنوان IP الثابت، الذي يظل كما هو.",
+      "breadcrumbs": [
+        { "name": "دليل عنوان IP", "href": "/learning/ip-address-guide" },
+        { "name": "ديناميكي مقابل ثابت", "href": "/learning/ip-address-guide/dynamic-vs-static-ip" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-26T10:00:00+00:00",
+        "dateModified": "2025-07-26T10:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>عنوان IP الخاص بك: هل هو دائم؟</h2><p>ليست كل عناوين IP متساوية. تنقسم بشكل عام إلى فئتين: ديناميكية أو ثابتة.</p><h3>عنوان IP الديناميكي</h3><p>عنوان IP الديناميكي هو عنوان مؤقت يتم تعيينه لجهاز من قبل مزود خدمة الإنترنت (ISP) في كل مرة يتصل فيها بالشبكة. يتم سحب عناوين IP هذه من مجموعة من العناوين المتاحة. بالنسبة لمعظم المستخدمين المنزليين، هذا هو المعيار. إنه فعال من حيث التكلفة لمزودي خدمات الإنترنت ويوفر درجة صغيرة من الخصوصية لأن عنوانك يتغير بشكل دوري.</p><h3>عنوان IP الثابت</h3><p>عنوان IP الثابت هو عنوان ثابت لا يتغير. غالبًا ما تستخدم الشركات عناوين IP ثابتة لاستضافة مواقع الويب أو خوادم البريد الإلكتر الإلكتروني أو توفير وصول عن بعد للموظفين، حيث يلزم وجود عنوان ثابت. على الرغم من موثوقيتها، إلا أنها يمكن أن تشكل خطرًا أمنيًا إذا لم يتم تأمينها بشكل صحيح، لأنها توفر هدفًا ثابتًا للمهاجمين.</p>"
+    }
+  }, "cybersecurity-guide/strong-passwords": {
+    "en": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "Account Security",
+      "title": "How to Create a Strong and Memorable Password",
+      "meta_description": "Learn simple, effective techniques for creating strong passwords that are hard to crack but easy to remember. Protect your online accounts today.",
+      "breadcrumbs": [
+        { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+        { "name": "Strong Passwords", "href": "/learning/cybersecurity-guide/strong-passwords" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-27T11:00:00+00:00",
+        "dateModified": "2025-07-27T11:00:00+00:00",
+        "authorName": "The whatismyip.zone Team"
+      },
+      "body": "<h2>Beyond 'Password123'</h2><p>A strong password is your first line of defense against unauthorized access to your online accounts. Here are three simple rules for creating one.</p><h3>1. Go for Length and Complexity</h3><p>Length is the most critical factor. Aim for at least 12-15 characters. A simple way to do this is to create a 'passphrase' instead of a single word, like <strong>Correct-Horse-Battery-Staple</strong>. It's long and easy for you to remember, but very difficult for a computer to guess.</p><h3>2. Mix Character Types</h3><p>Include a mix of uppercase letters, lowercase letters, numbers, and symbols (like !, @, #, $). This exponentially increases the number of possible combinations an attacker would have to try.</p><h3>3. Use a Password Manager</h3><p>The best way to manage strong, unique passwords for every site is to use a password manager. These tools generate and securely store complex passwords, so you only have to remember one master password. This prevents a breach on one site from compromising your other accounts.</p>"
+    },
+    "ar": {
+      "parent_pillar": "cybersecurity-guide",
+      "category": "أمان الحسابات",
+      "title": "كيفية إنشاء كلمة مرور قوية وسهلة التذكر",
+      "meta_description": "تعلم تقنيات بسيطة وفعالة لإنشاء كلمات مرور قوية يصعب اختراقها ولكن يسهل تذكرها. احمِ حساباتك على الإنترنت اليوم.",
+      "breadcrumbs": [
+        { "name": "دليل الأمن السيبراني", "href": "/learning/cybersecurity-guide" },
+        { "name": "كلمات المرور القوية", "href": "/learning/cybersecurity-guide/strong-passwords" }
+      ],
+      "schema": {
+        "datePublished": "2025-07-27T11:00:00+00:00",
+        "dateModified": "2025-07-27T11:00:00+00:00",
+        "authorName": "فريق whatismyip.zone"
+      },
+      "body": "<h2>تجاوز 'Password123'</h2><p>تعد كلمة المرور القوية خط دفاعك الأول ضد الوصول غير المصرح به إلى حساباتك عبر الإنترنت. إليك ثلاث قواعد بسيطة لإنشاء واحدة.</p><h3>1. اختر الطول والتعقيد</h3><p>الطول هو العامل الأكثر أهمية. استهدف ما لا يقل عن 12-15 حرفًا. طريقة بسيطة للقيام بذلك هي إنشاء 'عبارة مرور' بدلاً من كلمة واحدة، مثل <strong>Correct-Horse-Battery-Staple</strong>. إنها طويلة وسهلة التذكر بالنسبة لك، ولكن من الصعب جدًا على الكمبيوتر تخمينها.</p><h3>2. اخلط أنواع الأحرف</h3><p>قم بتضمين مزيج من الأحرف الكبيرة والأحرف الصغيرة والأرقام والرموز (مثل !، @، #، $). هذا يزيد بشكل كبير من عدد المجموعات المحتملة التي سيتعين على المهاجم تجربتها.</p><h3>3. استخدم مدير كلمات المرور</h3><p>أفضل طريقة لإدارة كلمات مرور قوية وفريدة لكل موقع هي استخدام مدير كلمات المرور. تقوم هذه الأدوات بإنشاء وتخزين كلمات مرور معقدة بشكل آمن، لذلك ما عليك سوى تذكر كلمة مرور رئيسية واحدة. هذا يمنع أي اختراق على موقع واحد من تعريض حساباتك الأخرى للخطر.</p>"
+    }
+  }
+
+}
+
+

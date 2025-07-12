@@ -1,0 +1,279 @@
+
+ {
+  "header": {
+    "en": {
+      "nav_items": [
+        { "name": "My IP", "href": "/" },
+        { "name": "IP Lookup", "href": "/tools/ip-lookup" },
+        { "name": "Hide My IP", "href": "/learning/vpn-guide" },
+        { "name": "VPNs", "href": "#", "children": [
+          { "name": "VPN Guide", "href": "/learning/vpn-guide" },
+          { "name": "VPN Reviews", "href": "/reviews/vpn" }
+        ]},
+        { "name": "Tools", "href": "#", "children": [
+          { "name": "IP Lookup", "href": "/tools/ip-lookup" },
+          { "name": "Blacklist Check", "href": "/tools/ip-blacklist-check" },
+          { "name": "Breach Check", "href": "/tools/breach-check" },
+          { "name": "Proxy Check", "href": "/tools/proxy-check" },
+          { "name": "Speed Test", "href": "/tools/internet-speed-test" }
+        ]},
+        { "name": "Learn", "href": "#", "children": [
+          { "name": "IP Address Guide", "href": "/learning/ip-address-guide" },
+          { "name": "VPN Guide", "href": "/learning/vpn-guide" },
+          { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+          { "name": "Digital Privacy Guide", "href": "/learning/privacy-guide" }
+        ]},
+        { "name": "About", "href": "/about" } 
+      ]
+    },
+    "ar": {
+      "nav_items": [
+        { "name": "IP الخاص بي", "href": "/" },
+        { "name": "بحث عن IP", "href": "/tools/ip-lookup" },
+        { "name": "إخفاء IP الخاص بي", "href": "/learning/vpn-guide" },
+        { "name": "VPN", "href": "#", "children": [
+          { "name": "دليل VPN", "href": "/learning/vpn-guide" },
+          { "name": "مراجعات VPN", "href": "/reviews/vpn" }
+        ]},
+        { "name": "أدوات", "href": "#", "children": [
+          { "name": "بحث عن IP", "href": "/tools/ip-lookup" },
+          { "name": "فحص القائمة السوداء", "href": "/tools/ip-blacklist-check" },
+          { "name": "فحص الاختراق", "href": "/tools/breach-check" },
+          { "name": "فحص البروكسي", "href": "/tools/proxy-check" },
+          { "name": "اختبار السرعة", "href": "/tools/internet-speed-test" }
+        ]},
+        { "name": "تعلم", "href": "#", "children": [
+          { "name": "دليل عنوان IP", "href": "/learning/ip-address-guide" },
+          { "name": "دليل VPN", "href": "/learning/vpn-guide" },
+          { "name": "دليل الأمن السيبراني", "href": "/learning/cybersecurity-guide" },
+          { "name": "دليل الخصوصية الرقمية", "href": "/learning/privacy-guide" }
+        ]},
+        { "name": "نبذة عنا", "href": "/about" }
+      ]
+    }
+  },
+ "footer": {
+    "en": {
+      "tagline": "Your trusted resource for IP address tools and digital privacy education. Take control of your online identity.",
+      "columns": [
+        {
+          "title": "IP Tools",
+          "links": [
+            { "name": "My IP Information", "href": "/" },
+            { "name": "IP Blacklist Check", "href": "/tools/ip-blacklist-check" },
+            { "name": "Internet Speed Test", "href": "/tools/internet-speed-test" }
+          ]
+        },
+        {
+          "title": "VPN & Anonymity",
+          "links": [
+            { "name": "The Ultimate VPN Guide", "href": "/learning/vpn-guide" },
+            { "name": "How VPNs Work", "href": "/learning/vpn-guide/how-vpns-work" },
+            { "name": "Best VPN Reviews", "href": "/reviews/vpn" },
+            { "name": "What is a Proxy?", "href": "/learning/proxies-explained" }
+          ]
+        },
+        {
+          "title": "Cybersecurity",
+          "links": [
+            { "name": "Cybersecurity Guide", "href": "/learning/cybersecurity-guide" },
+            { "name": "What is Malware?", "href": "/learning/cybersecurity-guide/what-is-malware" },
+            { "name": "Recognize Phishing", "href": "/learning/cybersecurity-guide/what-is-phishing" },
+            { "name": "Router Security 101", "href": "/learning/cybersecurity-guide/router-security" }
+          ]
+        },
+        {
+          "title": "Digital Privacy",
+          "links": [
+            { "name": "Online Privacy Guide", "href": "/learning/privacy-guide" },
+            { "name": "What Are Data Brokers?", "href": "/learning/privacy-guide/what-are-data-brokers" },
+            { "name": "Browser Privacy Settings", "href": "/learning/privacy-guide/browser-privacy" },
+            { "name": "Social Media Privacy", "href": "/learning/privacy-guide/social-media" }
+          ]
+        },
+        {
+          "title": "Company",
+          "links": [
+            { "name": "About Us", "href": "/about" },
+            { "name": "Contact Us", "href": "/contact" },
+            { "name": "Press", "href": "/press" }
+          ]
+        }
+      ],
+      "copyright": "All Rights Reserved.",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service"
+    },
+    "ar": {
+      "tagline": "مصدرك الموثوق لأدوات عناوين IP وتثقيف الخصوصية الرقمية. تحكم في هويتك على الإنترنت.",
+      "columns": [
+        {
+          "title": "أدوات IP",
+          "links": [
+            { "name": "معلومات IP الخاصة بي", "href": "/" },
+            { "name": "فحص القائمة السوداء", "href": "/tools/ip-blacklist-check" },
+            { "name": "اختبار سرعة الإنترنت", "href": "/tools/internet-speed-test" }
+          ]
+        },
+        {
+          "title": "VPN والسرية",
+          "links": [
+            { "name": "الدليل الشامل للـ VPN", "href": "/learning/vpn-guide" },
+            { "name": "كيف تعمل الـ VPN", "href": "/learning/vpn-guide/how-vpns-work" },
+            { "name": "أفضل مراجعات VPN", "href": "/reviews/vpn" },
+            { "name": "ما هو البروكسي؟", "href": "/learning/proxies-explained" }
+          ]
+        },
+        {
+          "title": "الأمن السيبراني",
+          "links": [
+            { "name": "دليل الأمن السيبراني", "href": "/learning/cybersecurity-guide" },
+            { "name": "ما هي البرامج الضارة؟", "href": "/learning/cybersecurity-guide/what-is-malware" },
+            { "name": "التعرف على التصيد", "href": "/learning/cybersecurity-guide/what-is-phishing" },
+            { "name": "أمان الراوتر 101", "href": "/learning/cybersecurity-guide/router-security" }
+          ]
+        },
+        {
+          "title": "الخصوصية الرقمية",
+          "links": [
+            { "name": "دليل الخصوصية الرقمية", "href": "/learning/privacy-guide" },
+            { "name": "ما هم وسطاء البيانات؟", "href": "/learning/privacy-guide/what-are-data-brokers" },
+            { "name": "إعدادات خصوصية المتصفح", "href": "/learning/privacy-guide/browser-privacy" },
+            { "name": "خصوصية وسائل التواصل", "href": "/learning/privacy-guide/social-media" }
+          ]
+        },
+         {
+          "title": "الشركة",
+          "links": [
+            { "name": "نبذة عنا", "href": "/about" },
+            { "name": "اتصل بنا", "href": "/contact" },
+            { "name": "للصحافة", "href": "/press" }
+          ]
+        }
+      ],
+      "copyright": "جميع الحقوق محفوظة.",
+      "privacy_policy": "سياسة الخصوصية",
+      "terms_of_service": "شروط الخدمة"
+    }
+  },
+  "homepage": {
+    "en": {
+      "hero_title": "My IP Address is:",
+      "hero_cta_button": "Rate Your VPN",
+      "hero_cta_link": "Show Complete IP Details",
+      "ip_info_title": "My IP Information:",
+      "concerns_title": "Which is your biggest concern about using the Internet?",
+"concerns": [
+  { 
+    "name": "Security", 
+    "description": "I want protection from hackers on public Wi-Fi and other unsecured networks.", 
+    "cta": "I want security",
+    "href": "/learning/cybersecurity-guide" 
+  },
+  { 
+    "name": "Privacy", 
+    "description": "I want to prevent my government, ISP and advertisers from tracking me.", 
+    "cta": "I want privacy",
+    "href": "/learning/privacy-guide"
+  },
+  { 
+    "name": "Access", 
+    "description": "I want to access Netflix, Hulu, and other streaming services without being blocked.", 
+    "cta": "I want access",
+    "href": "/learning/vpn-guide"
+  }
+],
+      "as_seen_on": "As Seen On",
+      "podcast_title": "Easy Prey Podcast",
+      "tools_title": "Select From The Tools Below to Keep You Safe:",
+      "tools": [
+        { "name": "IP Lookup", "href": "/tools/ip-lookup", "description": "Know the IP of another computer? Find where in the world it is." },
+        { "name": "Hide My IP", "href": "/learning/vpn-guide", "description": "Learn how to use a 'middleman' to shield your real IP address." },
+        { "name": "VPN Comparison", "href": "/reviews/vpn", "description": "Compare top rated VPN service providers." },
+        { "name": "Blacklist Check", "href": "/tools/ip-blacklist-check", "description": "Have you been blacklisted? Check to see here." },
+        { "name": "Speed Test", "href": "/tools/internet-speed-test", "description": "Is your Internet connection up to speed? Find out for free." },
+        { "name": "Breach Check", "href": "/tools/breach-check", "description": "Check if your email or password has been exposed in a data breach." }
+      ],
+      "faq_title": "Frequently Asked Questions",
+      "faqs": [
+        { "question": "What's my IP address?", "answer": "Your IP address is a unique number linked to your online activity. Our tool at the top of the page shows it to you instantly. It's assigned by your ISP and is essential for connecting to the internet." },
+        { "question": "What is a public IP address?", "answer": "A public IP address is your digital home address that allows you to send and receive data over the Internet. It's visible to the wider internet, distinguishing your device from billions of others." },
+        { "question": "How does my public IP address affect me?", "answer": "It's essential for online communication, but it can also pose privacy risks as it can reveal your general location. Using a VPN can help mask your public IP address." },
+        { "question": "Should I change my IP address?", "answer": "Changing your IP can enhance privacy, bypass geo-restrictions, and secure your connection on public Wi-Fi. A reliable VPN service is the best way to do this." }
+      ]
+    },
+    "ar": {
+      "hero_title": "عنوان IP الخاص بي هو:",
+      "hero_cta_button": "قيّم الـ VPN الخاص بك",
+      "hero_cta_link": "عرض تفاصيل IP الكاملة",
+      "ip_info_title": "معلومات IP الخاصة بي:",
+      "concerns_title": "ما هو أكبر مخاوفك بشأن استخدام الإنترنت؟",
+      "concerns": [
+    { 
+      "name": "الأمان", 
+      "description": "أريد الحماية من المتسللين على شبكات Wi-Fi العامة والشبكات الأخرى غير الآمنة.", 
+      "cta": "أريد الأمان",
+      "href": "/learning/cybersecurity-guide" 
+    },
+    { 
+      "name": "الخصوصية", 
+      "description": "أريد منع حكومتي ومزود خدمة الإنترنت والمعلنين من تتبعي.", 
+      "cta": "أريد الخصوصية",
+      "href": "/learning/privacy-guide"
+    },
+    { 
+      "name": "الوصول", 
+      "description": "أريد الوصول إلى Netflix و Hulu وخدمات البث الأخرى دون حظر.", 
+      "cta": "أريد الوصول",
+      "href": "/learning/vpn-guide"
+    }
+  ],
+      "as_seen_on": "كما ظهرنا في",
+      "podcast_title": "بودكاست Easy Prey",
+      "tools_title": "اختر من الأدوات أدناه للحفاظ على سلامتك:",
+      "tools": [
+        { "name": "بحث عن IP", "href": "/tools/ip-lookup", "description": "هل تعرف عنوان IP لجهاز آخر؟ اكتشف مكانه في العالم." },
+        { "name": "إخفاء IP الخاص بي", "href": "/learning/vpn-guide", "description": "تعلم كيفية استخدام 'وسيط' لحماية عنوان IP الحقيقي الخاص بك." },
+        { "name": "مقارنة VPN", "href": "/reviews/vpn", "description": "قارن بين أفضل مزودي خدمة VPN." },
+        { "name": "فحص القائمة السوداء", "href": "/tools/ip-blacklist-check", "description": "هل تم إدراجك في القائمة السوداء؟ تحقق هنا." },
+        { "name": "اختبار السرعة", "href": "/tools/internet-speed-test", "description": "هل سرعة اتصالك بالإنترنت جيدة؟ اكتشف مجانًا." },
+        { "name": "فحص الاختراق", "href": "/tools/breach-check", "description": "تحقق مما إذا كان بريدك الإلكتروني أو كلمة مرورك قد تم كشفها في خرق بيانات." }
+      ],
+      "faq_title": "أسئلة مكررة",
+      "faqs": [
+        { "question": "ما هو عنوان IP الخاص بي؟", "answer": "عنوان IP الخاص بك هو رقم فريد مرتبط بنشاطك على الإنترنت. أداتنا في أعلى الصفحة تعرضه لك على الفور. يتم تعيينه من قبل مزود خدمة الإنترنت الخاص بك وهو ضروري للاتصال بالإنترنت." },
+        { "question": "ما هو عنوان IP العام؟", "answer": "عنوان IP العام هو عنوان منزلك الرقمي الذي يسمح لك بإرسال واستقبال البيانات عبر الإنترنت. إنه مرئي للإنترنت الأوسع، ويميز جهازك عن مليارات الأجهزة الأخرى." },
+        { "question": "كيف يؤثر عنوان IP العام الخاص بي علي؟", "answer": "إنه ضروري للاتصال عبر الإنترنت، ولكنه قد يشكل أيضًا مخاطر على الخصوصية حيث يمكن أن يكشف عن موقعك العام. يمكن أن يساعد استخدام VPN في إخفاء عنوان IP العام الخاص بك." },
+        { "question": "هل يجب علي تغيير عنوان IP الخاص بي؟", "answer": "يمكن أن يؤدي تغيير عنوان IP الخاص بك إلى تعزيز الخصوصية وتجاوز القيود الجغرافية وتأمين اتصالك على شبكات Wi-Fi العامة. خدمة VPN موثوقة هي أفضل طريقة للقيام بذلك." }
+      ]
+    }
+  },
+  "about_page": {
+    "en": {
+      "title": "About whatismyip.zone",
+      "meta_description": "Learn about our mission to provide free, accessible tools and clear education to help everyone stay safe and informed online.",
+      "body": "<h2>Our Mission</h2><p>In a world where digital privacy and security are more important than ever, our mission is to empower users with free, accessible tools and clear, straightforward education. We believe everyone has the right to understand their digital footprint and protect their online identity.</p><h2>What We Do</h2><p>whatismyip.zone started as a simple tool to answer a basic question: 'What is my IP address?'. Since then, it has grown into a comprehensive suite of tools and a hub for learning about cybersecurity and privacy. We are committed to providing accurate utilities and expert-written content without logging user data or compromising your privacy.</p>"
+    },
+    "ar": {
+      "title": "عن whatismyip.zone",
+      "meta_description": "تعرف على مهمتنا في توفير أدوات مجانية ومتاحة وتثقيف واضح لمساعدة الجميع على البقاء آمنين ومطلعين على الإنترنت.",
+      "body": "<h2>مهمتنا</h2><p>في عالم أصبحت فيه الخصوصية والأمان الرقمي أكثر أهمية من أي وقت مضى، تتمثل مهمتنا في تمكين المستخدمين بأدوات مجانية ومتاحة وتثقيف واضح ومباشر. نحن نؤمن بأن لكل شخص الحق في فهم بصمته الرقمية وحماية هويته على الإنترنت.</p><h2>ماذا نفعل</h2><p>بدأ whatismyip.zone كأداة بسيطة للإجابة على سؤال أساسي: 'ما هو عنوان IP الخاص بي؟'. منذ ذلك الحين، نما ليصبح مجموعة شاملة من الأدوات ومركزًا للتعلم حول الأمن السيبراني والخصوصية. نحن ملتزمون بتقديم أدوات دقيقة ومحتوى مكتوب من قبل خبراء دون تسجيل بيانات المستخدم أو المساس بخصوصيتك.</p>"
+    }
+  },
+  "contact_page": {
+    "en": {
+      "title": "Contact Us",
+      "meta_description": "Have a question, feedback, or a press inquiry? Contact the whatismyip.zone team.",
+      "subtitle": "We'd love to hear from you. Please reach out with any questions, partnership proposals, or feedback.",
+      "email_heading": "General Inquiries",
+      "email": "contact@whatismyip.zone"
+    },
+    "ar": {
+      "title": "اتصل بنا",
+      "meta_description": "هل لديك سؤال، ملاحظات، أو استفسار صحفي؟ تواصل مع فريق whatismyip.zone.",
+      "subtitle": "يسعدنا أن نسمع منك. يرجى التواصل معنا بخصوص أي أسئلة أو مقترحات شراكة أو ملاحظات.",
+      "email_heading": "للاستفسارات العامة",
+      "email": "contact@whatismyip.zone"
+    }
+  }
+}
