@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"app\\\\components\\\\IpInfoCard.tsx -> @/components/IpMap":{"id":4355,"files":["static/css/857aa62baa17c894.css","static/chunks/d0deef33.afff9b3bf7059c8b.js","static/chunks/355.b72557e630483bde.js"]}}';
