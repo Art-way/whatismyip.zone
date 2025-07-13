@@ -1,0 +1,115 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/_not-found/page-7d96a158b1e5a5ca.js"
+    ],
+    "/[lang]/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/231-467e37449c5a68fc.js",
+      "static/chunks/app/[lang]/page-b9dfabc0217a8eb3.js"
+    ],
+    "/[lang]/layout": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/css/2ce14bc2e6a40914.css",
+      "static/chunks/231-467e37449c5a68fc.js",
+      "static/chunks/783-086ee812db2e5af9.js",
+      "static/chunks/app/[lang]/layout-714625ef3017520e.js"
+    ],
+    "/[lang]/contact/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/contact/page-8581e4b78126d590.js"
+    ],
+    "/[lang]/about/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/about/page-766ebf34e96373c8.js"
+    ],
+    "/[lang]/tools/breach-check/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/tools/breach-check/page-c0ca005120fb55e1.js"
+    ],
+    "/[lang]/tools/ip-blacklist-check/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/tools/ip-blacklist-check/page-1a9d69dfba4509cc.js"
+    ],
+    "/[lang]/tools/proxy-check/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/tools/proxy-check/page-1af4cf7530741c5d.js"
+    ],
+    "/[lang]/tools/ip-lookup/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/tools/ip-lookup/page-36535cfb198cbdf0.js"
+    ],
+    "/[lang]/[...slug]/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/231-467e37449c5a68fc.js",
+      "static/chunks/app/[lang]/[...slug]/page-dcf11274b72593c3.js"
+    ],
+    "/[lang]/privacy-policy/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/privacy-policy/page-680075977fd93b61.js"
+    ],
+    "/[lang]/terms-of-service/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/terms-of-service/page-f469ff82660fcaaa.js"
+    ],
+    "/[lang]/reviews/vpn/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/reviews/vpn/page-ec09a9688ebb82fe.js"
+    ],
+    "/[lang]/tools/internet-speed-test/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/app/[lang]/tools/internet-speed-test/page-ed95f15947413765.js"
+    ],
+    "/[lang]/[slug]/page": [
+      "static/chunks/webpack-0ca58f6a1415bee5.js",
+      "static/chunks/fd9d1056-0395f68b8cc78a20.js",
+      "static/chunks/23-2315cc8ba8f4d5ef.js",
+      "static/chunks/main-app-28da7dd133900962.js",
+      "static/chunks/231-467e37449c5a68fc.js",
+      "static/chunks/app/[lang]/[slug]/page-e9bf67aed83688a4.js"
+    ]
+  }
+}

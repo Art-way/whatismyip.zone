@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import KeyTakeawayBox from '@/components/KeyTakeawayBox';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import InternalLinkBox from '@/components/InternalLinkBox';
-import content from '../../../../content/learning.json';
+import content from '../../../content/learning.json';
 
 // --- Type Definitions (Enriched) ---
 type Breadcrumb = { name: string; href: string };

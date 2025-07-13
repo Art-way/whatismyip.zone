@@ -4,8 +4,8 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import Breadcrumbs from '@/components/Breadcrumbs';
-import content from '../../../../content/cluster-articles.json';
-import pillarContent from '../../../../content/learning.json';
+import content from '../../../content/cluster-articles.json';
+import pillarContent from '../../../content/learning.json';
 
 type Breadcrumb = { name: string; href: string };
 type PageContent = {

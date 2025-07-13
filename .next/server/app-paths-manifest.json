@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/blacklist-check/route": "app/api/blacklist-check/route.js",
+  "/api/ip-lookup/route": "app/api/ip-lookup/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/proxy-check/route": "app/api/proxy-check/route.js",
+  "/api/breach-check/route": "app/api/breach-check/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/contact/page": "app/[lang]/contact/page.js",
+  "/[lang]/about/page": "app/[lang]/about/page.js",
+  "/[lang]/tools/breach-check/page": "app/[lang]/tools/breach-check/page.js",
+  "/[lang]/tools/ip-blacklist-check/page": "app/[lang]/tools/ip-blacklist-check/page.js",
+  "/[lang]/tools/proxy-check/page": "app/[lang]/tools/proxy-check/page.js",
+  "/[lang]/tools/ip-lookup/page": "app/[lang]/tools/ip-lookup/page.js",
+  "/[lang]/[...slug]/page": "app/[lang]/[...slug]/page.js",
+  "/[lang]/privacy-policy/page": "app/[lang]/privacy-policy/page.js",
+  "/[lang]/terms-of-service/page": "app/[lang]/terms-of-service/page.js",
+  "/[lang]/reviews/vpn/page": "app/[lang]/reviews/vpn/page.js",
+  "/[lang]/tools/internet-speed-test/page": "app/[lang]/tools/internet-speed-test/page.js",
+  "/[lang]/[slug]/page": "app/[lang]/[slug]/page.js"
+}
